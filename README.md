@@ -1,6 +1,6 @@
 # EWNETs and Signal Decomposition
 
-**Authors:** Amey Choudhary, Aryan Gupta, Keshav Gupta
+**Authors:**  Aryan Gupta, Amey Choudhary, Keshav Gupta
 
 **Instructor:** Dr. Chittaranjan Hens
 
