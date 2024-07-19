@@ -1,10 +1,6 @@
-# DPCN 2024 Report
+# EWNETs and Signal Decomposition
 
-## EWNETs and Signal Decomposition
-
-**Authors:** Amey Choudhary, Aryan Gupta, Keshav Gupta (Team Baby Sharks)
-
-**Course:** Dynamical Processes in Complex Networks, Spring 2024
+**Authors:** Amey Choudhary, Aryan Gupta, Keshav Gupta
 
 **Instructor:** Dr. Chittaranjan Hens
 
